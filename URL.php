@@ -13,11 +13,13 @@
  *
  */
 
+namespace BLKTech\DataType;
+
 /**
  *
- * @author The Blankis < blankitoracing@gmail.com >
+ * @author TheKito < blankitoracing@gmail.com >
  */
-namespace BLKTech\DataType;
+
 class URL
 {    
     public static function parseURL($stringURL)

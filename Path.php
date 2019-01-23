@@ -17,8 +17,9 @@ namespace BLKTech\DataType;
 
 /**
  *
- * @author The Blankis < blankitoracing@gmail.com >
+ * @author TheKito < blankitoracing@gmail.com >
  */
+
 class Path
 {    
     public static function getRoot($directorySeparator = DIRECTORY_SEPARATOR)
